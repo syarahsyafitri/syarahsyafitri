@@ -1,5 +1,11 @@
-## Hi there 👋
+##Hello Everyone 👋
 
+My name is Syarah Syafitri.<br>
+I'm an undergraduate student at Gunadarma University.<br>
+If you're interested in getting to know me, feel free to follow my social media accounts and don’t hesitate to say hi! 😊<br>
+Let’s connect and grow together! ya.
+
+LinkedIn : https://www.linkedin.com/in/syarah-syafitri/
 <!--
 **syarahsyafitri/syarahsyafitri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
